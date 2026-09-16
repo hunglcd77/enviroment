@@ -1,0 +1,534 @@
+[
+  {
+    "id": "nm01",
+    "ten": "Nhà máy nước mặt Đông Bình",
+    "diaDiem": "Khu phố Đông Bình, phường Cao Lãnh, tỉnh Đồng Tháp",
+    "congSuat": "40.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 907/UBND-KTHĐT ngày 13/9/2025 của UBND P. Cao Lãnh  (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND phường Cao Lãnh.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm02",
+    "ten": "Nhà máy nước mặt Tân Long",
+    "diaDiem": "Khu phố Bến Bắc, phường Cao Lãnh, tỉnh Đồng Tháp",
+    "congSuat": "6.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 1927/UBND-KTHĐT ngày 7/11/2025 của UBND P. Cao Lãnh  (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND phường Cao Lãnh.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm03",
+    "ten": "Nhà máy nước mặt Mỹ Hiệp",
+    "diaDiem": "Cụm công nghiệp xã Mỹ Hiệp, tỉnh Đồng Tháp",
+    "congSuat": "5.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 04/UBND-HC ngày 19/6/2025 của UBND xã Mỹ Hiệp (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã Mỹ Hiệp.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm04",
+    "ten": "Nhà máy nước mặt Mỹ An",
+    "diaDiem": "Ấp Mỹ An 2, xã Tháp Mười, tỉnh Đồng Tháp",
+    "congSuat": "13.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 974/UBND-KT ngày 21/4/2026 của UBND xã Tháp Mười (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã Tháp Mười.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm05",
+    "ten": "Trạm cấp nước Mỹ Thọ",
+    "diaDiem": "Ấp Mỹ Tây, xã Mỹ Thọ, tỉnh Đồng Tháp",
+    "congSuat": "10.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 501/PKT-HC ngày 24/3/2026 của phòng KT -UBND xã Mỹ Thọ\n (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã Mỹ Thọ.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm06",
+    "ten": "Trạm cấp nước Trường Xuân",
+    "diaDiem": "xã Trường Xuân, tỉnh Đồng Tháp",
+    "congSuat": "2.500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 386/UBND ngày 28/5/2025 của UBND xã Trường Xuân (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã Trường Xuân.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm07",
+    "ten": "Nhà máy nước mặt Trần Quốc Toản",
+    "diaDiem": "Quốc lộ 30, phường Mỹ Ngãi, tỉnh Đồng Tháp",
+    "congSuat": "7.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Chưa có văn bản/GPMT — cần thực hiện thủ tục môi trường.",
+    "status": {
+      "gpmt": "red",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm08",
+    "ten": "Trạm cấp nước Tân Nghĩa",
+    "diaDiem": "Chợ Tân Nghĩa, phường Mỹ Ngãi, tỉnh Đồng Tháp",
+    "congSuat": "2.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Chưa có văn bản/GPMT — cần thực hiện thủ tục môi trường.",
+    "status": {
+      "gpmt": "red",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm09",
+    "ten": "Nhà máy nước Sa Đéc",
+    "diaDiem": "270B, Trần Hưng Đạo, P. Sa Đéc, tỉnh Đồng Tháp",
+    "congSuat": "17.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có thông báo tiếp nhận/chấp thuận: số 105/TB-UNBD ngày 18/5/2026  của UBND phường Sa Đéc — đã hoàn thành Đăng ký môi trường (ĐKMT), không yêu cầu GPMT. Cơ quan: UBND phường Sa Đéc.",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm10",
+    "ten": "Nhà máy nước KCN C",
+    "diaDiem": "KCN C, phường Sa Đéc, tỉnh Đồng Tháp",
+    "congSuat": "15.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có thông báo tiếp nhận/chấp thuận: số 30/TB-UBND ngày 24/4/2025 của UBND phường Tân Qui Đông — đã hoàn thành Đăng ký môi trường (ĐKMT), không yêu cầu GPMT. Cơ quan: UBND phường Tân Qui Đông (P. Sa Đéc hiện nay).",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm11",
+    "ten": "Nhà máy nước mặt Nha Mân",
+    "diaDiem": "QL80, xã Tân Nhuận Đông, tỉnh Đồng Tháp (cầu Nha Mân)",
+    "congSuat": "7.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 273/UBND-KT ngày 30/5/2025 của UBND xã Tân Nhuận Đông (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức).",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm12",
+    "ten": "Nhà máy nước mặt Nha Mân 2",
+    "diaDiem": "QL80, xã Tân Nhuận Đông, tỉnh Đồng Tháp",
+    "congSuat": "5.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 272/UBND-KT ngày 30/5/2025 của UBND xã Tân Nhuận Đông (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã Tân Nhuận Đông.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm13",
+    "ten": "Nhà máy nước mặt An Hiệp",
+    "diaDiem": "cồn An Hiệp, xã Phú Hựu, tỉnh Đồng Tháp",
+    "congSuat": "2.500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 624/UBND-KT ngày 12/3/2026 của UBND xã  Phú Hựu (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã  Phú Hựu.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm14",
+    "ten": "Nhà máy nước mặt An Phú Thuận",
+    "diaDiem": "xã Phú Hựu (UBND xã An phú thuận cũ)",
+    "congSuat": "2.500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Chưa có văn bản/GPMT — cần thực hiện thủ tục môi trường.",
+    "status": {
+      "gpmt": "red",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm15",
+    "ten": "Nhà máy nước mặt Bình Thành",
+    "diaDiem": "QL80, xã Lấp Vò, tỉnh Đồng Tháp",
+    "congSuat": "6.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có GPMT: số 01/GPMT-UBND ngày 21/4/2025 của UBND huyện Lấp Vò  Cơ quan: UBND huyện Lấp Vò.",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm16",
+    "ten": "Nhà máy nước mặt Lộ Tiểu",
+    "diaDiem": "QL80, xã Phú Hựu, tỉnh Đồng Tháp",
+    "congSuat": "5.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 243/UBND-KT ngày ngày 14/5/2025 của UBND xã An Nhơn (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã An Nhơn (UBND xã Phú Hựu hiện nay).",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm17",
+    "ten": "Nhà máy nước mặt Mương Điều",
+    "diaDiem": "Chợ Mương Điều, xã Tân Khánh Trung, tỉnh Đồng Tháp",
+    "congSuat": "3.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Chưa có văn bản/GPMT — cần thực hiện thủ tục môi trường.",
+    "status": {
+      "gpmt": "red",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm18",
+    "ten": "Nhà máy nước mặt Khánh Mỹ",
+    "diaDiem": "xã Tân Khánh Trung, tỉnh Đồng Tháp",
+    "congSuat": "2.500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Chưa có văn bản/GPMT — cần thực hiện thủ tục môi trường.",
+    "status": {
+      "gpmt": "red",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm19",
+    "ten": "Nhà máy nước mặt Vĩnh Thạnh",
+    "diaDiem": "ấp Vĩnh Thạnh, xã Lấp Vò, tỉnh Đồng Tháp (cầu Vĩnh Thạnh)",
+    "congSuat": "500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có thông báo tiếp nhận/chấp thuận: số 38/TB-UBND ngày 11/3/2026 của UBND xã Lấp Vò — đã hoàn thành Đăng ký môi trường (ĐKMT), không yêu cầu GPMT. Cơ quan: UBND xã Lấp Vò.",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm20",
+    "ten": "Nhà máy nước mặt Phú Hựu",
+    "diaDiem": "xã Phú Hựu, tỉnh Đồng Tháp",
+    "congSuat": "2.500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có GPMT: số 27/GPMT-UNBD ngày 26/6/2025 của UBND huyện Châu Thành Cơ quan: UBND huyện Châu Thành (UBND xã Phú Hựu hiện nay).",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm21",
+    "ten": "Nhà máy nước mặt Tân Phú Trung",
+    "diaDiem": "xã Tân Phú Trung, tỉnh Đồng Tháp",
+    "congSuat": "5.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có công văn của UBND: số 222/UBND-KT ngày 8/8/2025 của UBND xã Tân Phú Trung (đang trong quá trình hoàn thiện thủ tục môi trường, chưa phải GPMT chính thức). Cơ quan: UBND xã Tân Phú Trung.",
+    "status": {
+      "gpmt": "yellow",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm22",
+    "ten": "Nhà máy nước mặt Tân Dương",
+    "diaDiem": "KDC Tân Dương, xã Tân Dương, tỉnh Đồng Tháp",
+    "congSuat": "3.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Chưa có văn bản/GPMT — cần thực hiện thủ tục môi trường.",
+    "status": {
+      "gpmt": "red",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm23",
+    "ten": "Nhà máy nước mặt TP. Hồng Ngự",
+    "diaDiem": "phường An Bình, tỉnh Đồng Tháp",
+    "congSuat": "17.500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có GPMT: số 1732/GPMT-UBND ngày 05/6/2025 của UBND TP. Hồng Ngự Cơ quan: UBND TP. Hồng Ngự (UBND phường An Bình hiện nay).",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm24",
+    "ten": "Nhà máy nước Thường Thới Tiền",
+    "diaDiem": "xã Thường Phước, tỉnh Đồng Tháp",
+    "congSuat": "6.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có GPMT: số 488/GPMT-UBND ngày 12/5/2025 của UBND tỉnh Đồng Tháp Cơ quan: UBND tỉnh Đồng Tháp.",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm25",
+    "ten": "Nhà máy nước mặt An Long",
+    "diaDiem": "QL30, xã An Long, tỉnh Đồng Tháp",
+    "congSuat": "6.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có thông báo tiếp nhận/chấp thuận: số 947/TB-UBND ngày 10/6/2026 của UBND xã An Long — đã hoàn thành Đăng ký môi trường (ĐKMT). Cơ quan: UBND xã An Long. ⚠️ Cần đối chiếu: dữ liệu trước đây (kế hoạch GPMT 2025) từng ghi nhận trạm này đã có GPMT số 224/GPMT-UBND ngày 14/3/2025, nhưng dữ liệu mới nhất chỉ ghi nhận Thông báo ĐKMT — cần Hùng/Trúc xác minh lại là đã có GPMT hay chỉ ĐKMT (dù trường hợp nào cũng đã hoàn thành nghĩa vụ tương ứng).",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm26",
+    "ten": "Nhà máy nước Bình Phú",
+    "diaDiem": "xã Tân Hồng, tỉnh Đồng Tháp",
+    "congSuat": "6.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có GPMT: số 83/GPMT-UBND ngày 29/5/2025 của UBND huyện Tân Hồng Cơ quan: UBND huyện Tân Hồng (nay là xã Tân Hồng).",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm27",
+    "ten": "Trạm cấp nước Tràm Chim",
+    "diaDiem": "xã Tràm Chim, tỉnh Đồng Tháp",
+    "congSuat": "6.000 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có GPMT: số 1438/GPMT-UBND ngày 27/6/2025 của UBND huyện Tam Nông Cơ quan: UBND xã Tràm Chim.",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  },
+  {
+    "id": "nm28",
+    "ten": "Nhà máy nước mặt Thanh Bình",
+    "diaDiem": "xã Thanh Bình, tỉnh Đồng Tháp",
+    "congSuat": "8.500 m³/ngày",
+    "nguon": "Nước mặt",
+    "nguoiPhuTrach": "Đặng Thanh Hùng",
+    "ghiChu": "Đã có văn bản chấp thuận của UBND xã Thanh Bình ngày 12/11/2025 — đã hoàn thành Đăng ký môi trường (ĐKMT), không yêu cầu GPMT. Cơ quan: UBND xã Thanh Bình.",
+    "status": {
+      "gpmt": "green",
+      "nuocthai": "blue",
+      "ctnh": "blue",
+      "bunthai": "blue",
+      "hoachat": "blue",
+      "quantrac": "blue",
+      "baocao": "blue",
+      "knk": "blue"
+    }
+  }
+]
